@@ -2,7 +2,7 @@
 <img src="Preview.png">
 </div>
 
-# Maven Downloader
+# Maven Downloader (Awalnya AMBATUKAM)
 
 # Program GUI yang menggabungkan yt-dlp dan aria2 untuk kemudahan
 
