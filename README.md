@@ -2,4 +2,8 @@
 <img src="Preview.png">
 </div>
 
-Program GUI yang menggabungkan yt-dlp dan aria2 untuk kemudahan
+# Maven Downloader
+
+# Program GUI yang menggabungkan yt-dlp dan aria2 untuk kemudahan
+
+Rencana nya sih kedepanya bakal diupdate lagi bakal agar minim bug dan bisa custom background dan tema
